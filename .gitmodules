@@ -1,0 +1,3 @@
+[submodule "kintex-7-HDMI-color-bar"]
+	path = kintex-7-HDMI-color-bar
+	url = https://github.com/briansune/kintex-7-HDMI-color-bar.git
