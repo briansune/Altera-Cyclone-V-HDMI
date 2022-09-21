@@ -10,3 +10,6 @@ As for Xilinx FPGA please find the submodule link useful.
 
 Enjoy =]
 
+
+# Some demo image:
+![Alt text](images/img.jpg?raw=true "Title")
