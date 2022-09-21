@@ -1,5 +1,25 @@
 # Altera-Cyclone-V-HDMI
 
+| Quartus Prime Version           | 18.1.0 Build 625 09/12/2018 SJ Standard Edition |
+|---------------------------------|-------------------------------------------------|
+| Revision Name                   | hdmi                                            |
+| Top-level Entity Name           | hdmi_test                                       |
+| Family                          | Cyclone V                                       |
+| Device                          | 5CSEBA2U19C6                                    |
+| Timing Models                   | Final                                           |
+| Logic utilization (in ALMs)     | 98 / 9,430 ( 1 % )                              |
+| Total registers                 | 93                                              |
+| Total pins                      | 10 / 205 ( 5 % )                                |
+| Total virtual pins              | 0                                               |
+| Total block memory bits         | 0 / 1,433,600 ( 0 % )                           |
+| Total DSP Blocks                | 0 / 36 ( 0 % )                                  |
+| Total HSSI RX PCSs              | 0                                               |
+| Total HSSI PMA RX Deserializers | 0                                               |
+| Total HSSI TX PCSs              | 0                                               |
+| Total HSSI PMA TX Serializers   | 0                                               |
+| Total PLLs                      | 1 / 5 ( 20 % )                                  |
+| Total DLLs                      | 0 / 4 ( 0 % )                                   |
+
 Verilog based HDMI for Cyclone V or Altera series
 
 The HDMI interface does not required any front-end IC or converter.
