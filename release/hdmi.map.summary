@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sun Jul 17 09:48:30 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : hdmi
+Top-level Entity Name : hdmi_test
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 130
+Total pins : 10
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0
