@@ -1,5 +1,9 @@
 # Altera-Cyclone-V-HDMI
 
+Comparing IP-based with Code-based implementation, the deviations are 98 vs 115 ALMs.
+
+This means, using (Altera HW IP) should provide a better result.
+
 | Quartus Prime Version           | 18.1.0 Build 625 09/12/2018 SJ Standard Edition |
 |---------------------------------|-------------------------------------------------|
 | Revision Name                   | hdmi                                            |
