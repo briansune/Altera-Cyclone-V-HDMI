@@ -4,6 +4,11 @@ Comparing IP-based with Code-based implementation, the deviations are 98 vs 115 
 
 This means, using (Altera HW IP) should provide a better result.
 
+However, if you are using IP-based implementation method, there is a catch which speed-grade will restrict you to implement the design if it is violating.
+But this might not be true to all case. In this example we are faking the tool C6 but we are using C7.
+
+## Report of IP-based implementation
+
 | Quartus Prime Version           | 18.1.0 Build 625 09/12/2018 SJ Standard Edition |
 |---------------------------------|-------------------------------------------------|
 | Revision Name                   | hdmi                                            |
